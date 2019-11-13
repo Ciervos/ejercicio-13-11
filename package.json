@@ -1,0 +1,11 @@
+{
+  "name": "jest-obje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "libros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
